@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodWing/fronted/static/css/main.ea7e3b7b.css",
+    "main.js": "/FoodWing/fronted/static/js/main.7523663d.js",
+    "static/js/787.7fe0dfbc.chunk.js": "/FoodWing/fronted/static/js/787.7fe0dfbc.chunk.js",
+    "index.html": "/FoodWing/fronted/index.html",
+    "main.ea7e3b7b.css.map": "/FoodWing/fronted/static/css/main.ea7e3b7b.css.map",
+    "main.7523663d.js.map": "/FoodWing/fronted/static/js/main.7523663d.js.map",
+    "787.7fe0dfbc.chunk.js.map": "/FoodWing/fronted/static/js/787.7fe0dfbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea7e3b7b.css",
+    "static/js/main.7523663d.js"
+  ]
+}
